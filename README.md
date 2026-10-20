@@ -45,7 +45,7 @@ This repository follows Claude's **progressive disclosure** design pattern to ke
 
 | Skill | Directory | Description | Status |
 |---|---|---|---|
-| **animate-svg** | [`skills/animate-svg/`](./skills/animate-svg/) | SVG animation techniques, CSS keyframes, SMIL, and GSAP workflows | 🟡 Initialized |
+| **animate-svg** | [`skills/animate-svg/`](./skills/animate-svg/) | SVG animation techniques, CSS keyframes, SMIL, and path drawing | 🟢 Ready |
 
 ---
 
